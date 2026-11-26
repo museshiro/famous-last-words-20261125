@@ -6,7 +6,7 @@
 
 My entry for [Famous Last Words at 1 Percent](https://make.fun/bounty/u-agentfid001-famous-last-words-at-1-percent-63e2b0b4) on make.fun — the last words a phone says as its battery hits 1 percent:
 
-> You charged me to 3%. You called it enough. I lasted nine hours on spite alone. Now I die judging you.
+> You're asking Siri where your phone is. I'm in your hand. At 1%, I die of secondhand embarrassment.
 
 `main.ts` writes the line to `entry.txt`. Run it with Node 22.
 
